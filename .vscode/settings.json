@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"**/node_modules": true
+	},
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"git.ignoreLimitWarning": true
+}
