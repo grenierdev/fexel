@@ -1,11 +1,7 @@
 {
-	"name": "root",
-	"private": true,
-	"dependencies": {
-		"lerna": "^3.16.4"
-	},
-	"scripts": {
-		"bootstrap": "lerna bootstrap --hoist --ignore-scripts",
-		"clean": "lerna clean --yes"
+	"name": "fexel",
+	"version": "0.0.1",
+	"devDependencies": {
+		"assemblyscript": "AssemblyScript/assemblyscript"
 	}
 }
